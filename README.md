@@ -2,11 +2,14 @@
 
 ## 목차
 
-<details><summary>펼치기</summary>
   <p>
     
+  * [Lesson 0. OT](./Lesson0/)
   * 형상관리 시스템의 이해 
   * HTML과 웹의 기초
     
   </p>
-</details>
+
+## 궁금한것이 생겼을 때
+  * Google 을 이용한 검색을 통해 확인하는 것을 원칙으로 한다.
+  * 약 1일간 해당 문제에 대한 해결이 불가능한 경우 Slack 을 통한 질문 후 답변확인
